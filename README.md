@@ -85,7 +85,7 @@ Sample predictions with actual labels
 
 git clone [https://github.com/Indranil1105/Object-Classification-for-automated-CCTV.git](https://github.com/Indranil1105/Object-Classification-for-automated-CCTV.git)
 
-cd <your-repo-name>
+cd Object-Classification-for-automated-CCTV
 
 ### Install dependencies:
 
